@@ -1,0 +1,13 @@
+{
+  "rooms" : [
+    "carpentry",
+    "welding",
+    "machine",
+    "main",
+    "biohub",
+    "kitchen"
+  ],
+  "areas": [
+    "soldering": {"room": "main"},
+    "
+  ]
